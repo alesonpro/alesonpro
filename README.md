@@ -1,6 +1,6 @@
 <h1 align="center">Ciao 👋, I'm Aleson Galvez</h1>
 <h3 align="center">I'm a front-end developer based in Italy!</h3>
-<img align="right" alt="Coding" width="350" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
+<img align="right" alt="Coding" width="330" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
 <br>
 
 🔭 I’m a student **@University of the Cordilleras**
