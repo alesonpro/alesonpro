@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
 <br>
 
-🔭 I’m currently a student **University of the Cordilleras**
+🔭 I’m a student **@University of the Cordilleras**
 
 🌱 I’m learning **SASS**
 
