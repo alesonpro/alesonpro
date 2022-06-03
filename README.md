@@ -20,21 +20,21 @@
 
 <div style="display: inline-block">
  <h3>Skills</h3>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" align="center"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"  align="center" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" align="center"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"  align="center"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" align="center" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"  align="center"  /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="50" align="center"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="50"  align="center" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="50" align="center"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="45"  align="center"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="50" align="center" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="50"  align="center"  /> 
 </div>
 
 <br>
 <br>
 <br>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alesonpro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesonpro&layout=compact&langs_count=7&theme=radical"/>
+<div style="display:flex; ">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=alesonpro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesonpro&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
