@@ -1,7 +1,8 @@
 <h1 align="center">Ciao 👋, I'm Aleson Galvez</h1>
 <h3 align="center">I'm a front-end developer based in Italy!</h3>
-<img align="right" alt="Coding" width="330" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
 <br>
+<br>
+<img align="right" alt="Coding" width="310" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
 
 🔭 I’m a student **@University of the Cordilleras**
 
@@ -32,8 +33,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alesonpro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesonpro&layout=compact&langs_count=7&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alesonpro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesonpro&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
