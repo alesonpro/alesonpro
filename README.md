@@ -13,3 +13,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" height="40" align="center" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="35" height="40"  align="center"  /> 
 </div>
+  
+<h1 align="center">Ciao 👋, I'm Aleson Galvez</h1>
+<h3 align="center">I'm a front-end developer based in Italy!</h3>
+ 🔭 I’m a student **@University of the Cordilleras**
+
+🌱 I’m learning **SASS**
+
+📫 How to reach me **rolfaleson.pro@gmail.com**
+
