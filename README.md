@@ -20,6 +20,6 @@
 <p>🌱 I’m learning <strong>SASS</strong></p>
 <p>📫 How to reach me <strong>rolfaleson.pro@gmail.com</strong></p>
 
-
+<img align="right" alt="Coding" width="200px" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
 
 
