@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesonpro&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
- <div style="display: inline-block">
+ <div style="display: inline-block" aling="center">
    <h3>Skills</h3>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="40" align="center"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="40"  align="center" />
@@ -21,9 +21,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="35"  align="center"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" height="40" align="center" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="35" height="40"  align="center"  /> 
+   <br>
+   <br>
+   <br>
+   <br>
+    <img alt="cute cat rolling" width="200px" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
 </div>
  
- <img align="center" alt="cute cat rolling" width="200px" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
+
  
 
 
