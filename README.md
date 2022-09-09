@@ -16,9 +16,9 @@
   
 <h1 align="center">Ciao 👋, I'm Aleson Galvez</h1>
 <h3 align="center">I'm a front-end developer based in Italy!</h3>
-<p>🔭 I’m a student **@University of the Cordilleras**</p>
-<p>🌱 I’m learning **SASS**</p>
-<p>📫 How to reach me **rolfaleson.pro@gmail.com**</p>
+<p>🔭 I’m a student <strong>@University of the Cordilleras</strong></p>
+<p>🌱 I’m learning <strong>SASS</strong></p>
+<p>📫 How to reach me <strong>rolfaleson.pro@gmail.com</strong></p>
 
 
 
