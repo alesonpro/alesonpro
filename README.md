@@ -16,10 +16,21 @@
   
 <h1 align="center">Ciao 👋, I'm Aleson Galvez</h1>
 <h3 align="center">I'm a front-end developer based in Italy!</h3>
-<p>🔭 I’m a student <strong>@University of the Cordilleras</strong></p>
-<p>🌱 I’m learning <strong>SASS</strong></p>
-<p>📫 How to reach me <strong>rolfaleson.pro@gmail.com</strong></p>
 
-<img align="right" alt="Coding" width="200px" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
+  
+<div style="display: flex;">
+  <div>
+    <p>🔭 I’m a student <strong>@University of the Cordilleras</strong></p>
+    <p>🌱 I’m learning <strong>SASS</strong></p>
+    <p>📫 How to reach me <strong>rolfaleson.pro@gmail.com</strong></p>
+  </div>
+  <div>
+    <img alt="Coding" width="200px" src="https://c.tenor.com/tkhBN6TlHkoAAAAi/bttv-rolling-cat.gif">
+  </div>
+</div>
+
+
+
+
 
 
