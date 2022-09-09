@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesonpro&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
- <div style="display: inline-block" aling="center">
+ <div style="display: inline-block" align="center">
    <h3>Skills</h3>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="40" align="center"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="40"  align="center" />
