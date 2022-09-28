@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ciao 👋, I'm Aleson Galvez</h1>
-  <h3>I'm a front-end developer based in Italy!</h3>
+  <h3>I'm an aspiring frontend developer based in Italy!</h3>
 
   <div>
     <p>🔭 I’m a student <strong>@University of the Cordilleras</strong></p>
