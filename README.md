@@ -4,7 +4,7 @@
 
   <div>
     <p>🔭 I’m a student <strong>@University of the Cordilleras</strong></p>
-    <p>🌱 I’m learning <strong>SASS</strong></p>
+    <p>🌱 I’m learning <strong>JavaScript</strong></p>
     <p>📫 How to reach me <strong>rolfaleson.pro@gmail.com</strong></p>
   </div>
 
