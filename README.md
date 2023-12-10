@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alesonpro&show_icons=true&locale=en" alt="alesonpro" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alesonpro&label=Profile%20views&color=0e75b6&style=flat" alt="alesonpro" /> </p>
 <div align="center">
   <h1>Ciao 👋, I'm Aleson Galvez</h1>
   <h3>I'm an aspiring frontend developer based in Italy!</h3>
